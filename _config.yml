@@ -55,11 +55,11 @@ volunteering_experience_title: "Volunteering Experience"
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   I am currently working on a security hardware project that could potentially increase the current security-levels throughout the market.The thing that drives me is my passion for Cyber Security and Ethical Hacking and I am really inquisitive about new technologies.My motto is to always keep learning and to share that knowledge with others.
-  I am an absolute nerd and have worked on various technologies including Linux, Cloud, Raspberry Pi and Arduino microcontroller.
+  I am an absolute nerd and have worked on various technologies and tools including Linux, Cloud, Burupsuite, Metasploit and Raspberry Pi.
 
   Alongside my interests in cybersecurity and information security some of my other interests and hobbies are:
   - Food, lots of it.
-  - TV Shows
+  - CTFs
   - Hacking
   - Dancing
 
