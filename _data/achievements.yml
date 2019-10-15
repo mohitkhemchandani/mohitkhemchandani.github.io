@@ -1,6 +1,6 @@
 # Project template
 
-- name: CompTia Pentest+ Infosec CTf
+- name: CompTia Pentest+ Infosec CTF
   link: tryhackme.com/room/Infosec
   link_name: 
   description:
@@ -10,10 +10,10 @@
   link: https://drive.google.com/open?id=1FxZHpFGbdaTtAD4lxowOC5hlp-oagNwP
   link_name: See Credentials
   description:
-   Completed C|EH V10 Certification with 86.4%.(02/2019– 02/2022)
+   Completed CEHv10 Certification with 86.4%.(02/2019– 02/2022)
 
 - name: Completed Cybrary Web Application Penetration Testing Course
-  link: https://run.qwiklabs.com/public_profiles/a30c5c18-fe11-47f0-871f-b2953f22eec1
+  link: https://drive.google.com/open?id=1IZNFPPcWBIqMbmwS8MM1Nr2B3jEMhc9h
   link_name: See Credentials
   description:
    Inroduction to Web Application Penetration Testing Course at Cybrary.
