@@ -1,0 +1,30 @@
+<div class="container achievements-container" id="#achievements">
+    <h3>{{ site.achievements_title | default: "Achievements" }}</h3>
+
+    <div class="card-box">
+
+    {% for achievement in site.data.achievements %}
+
+    <div class="card-box-item layout">
+        <div class="details">
+            {%- if achievement.name -%}<p><b>{{ achievement.name }}</b></p>{%- endif -%}
+            {%- if achievement.title -%}<p><b>{{ achievement.title }}</b></p>{%- endif -%}
+            {%- if achievement.link -%}
+                <a href="{{ achievement.link }}" target="_blank" class="link link-underlined"><small>{{ achievement.link_name }}</small></a>
+            {%- endif -%}
+            <p>
+                {%- for tag in achievement.tags -%}
+                {{tag | strip | markdownify}}
+                {% endfor %}
+            </p>
+            <p>
+                {{ achievement.description | strip | markdownify }}
+            </p>
+        </div>
+    </div>
+
+    {% endfor %}
+
+    </div>
+
+</div>
