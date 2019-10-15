@@ -1,0 +1,92 @@
+# Site
+repository: mohitkhemchandani/resume
+favicon: assets/favicon.png
+
+# Personal info
+name: Mohit Khemchandani
+title: Web Pentester | CTF player | Bug Hunter | Cyber Security Analyst
+email: mohitkchandani@gmail.com
+resume: https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view
+website: https://mohitkhemchandani.github.io/
+
+# Social links
+twitter_username: mohitkchandani
+github_username: mohitkhemchandani
+#medium_username:
+instagram_username: mohitkchandani
+linkedin_username: mohitkhemchandani
+# youtube_username: jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  I am a Final Year Student, pursuing B.Tech in Computer Science at <a href="https://poornima.edu.in" target="_blank">Poornima University</a>. 
+
+  My CS interests currently lie in <mark>Cybersecurity</mark> and <mark>Information Security</mark>.
+
+  #The most interesting things happening in my life, right now, academically speaking are:
+  Some other skills that I have -
+    - VAPT
+    - Networking
+    - Cloud 
+    - Linux
+    - Web Application Penetration Testing
+  
+  I am actively looking for cybersecurity and research internships for winter 2019. I am available remotely too.
+
+  _A pdf version of my resume is available <a href="https://drive.google.com/open?id=1MgURG5iy8qkiJBhrADJaPgR5WKoNlgdu" target="_blank" >here</a>._
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# Achievements Section
+achievements_title: "Few things I am proud of"
+
+# Volunteering Experience section
+volunteering_experience_title: "Volunteering Experience"
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  I am currently working on a security hardware project that could potentially increase the current security-levels throughout the market.The thing that drives me is my passion for Cyber Security and Ethical Hacking and I am really inquisitive about new technologies.My motto is to always keep learning and to share that knowledge with others.
+  I am an absolute nerd and have worked on various technologies including Linux, Cloud, Raspberry Pi and Arduino microcontroller.
+
+  Alongside my interests in cybersecurity and information security some of my other interests and hobbies are:
+  - Food, lots of it.
+  - TV Shows
+  - Hacking
+  - Dancing
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
