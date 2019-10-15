@@ -1,0 +1,29 @@
+# Project template
+
+- layout: left
+  name: Mufasa Scanner 
+  link: 
+  github: 
+  quote: >
+    #A Selenium-based tool developed in python to automate the task of Vulnerability Assessment with the help of Nmap and Nessus.
+  tags: <mark>Selenium Driver</mark>
+        <mark>Nmap</mark>
+        <mark>Nessus</mark>
+        <mark>Python</mark>
+        
+  description: | # this will include new lines to allow paragraphs
+    - A Selenium-based tool developed in python to automate the task of Vulnerability Assessment with the help of Nmap and Nessus.
+
+- layout: left
+  name: De-Code V1 - 2016
+  link: 
+  github: https://github.com/mohitkhemchandani/De-Code-v1
+  quote: >
+    
+  tags: <mark>C Language</mark>
+        <mark>ASCII</mark>
+        
+  description: | # this will include new lines to allow paragraphs
+    - A Software to encipher and decipher one's message from a self-created algorithm to ensure secrecy.
+
+

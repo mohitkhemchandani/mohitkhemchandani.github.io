@@ -1,0 +1,19 @@
+# Education Template
+
+- layout: left
+  name: Poornima University
+  dates: 2016 - 2020 (Expected)
+  qualification: B.Tech in Computer Engineering
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    - Pursuing B.Tech With Specialization in Cloud Computing and Information Security.
+
+- layout: left
+  name: Mayur Public Sr. Sec. School
+  dates: 2014 - 2015
+  qualification: Higher Secondary; Physics, Chemistry, and Mathematics.
+  description: | # this will include new lines to allow paragraphs
+    - Graduated High school with <mark>83.60%</mark> in RBSE boards.
+    
+     
