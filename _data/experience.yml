@@ -5,14 +5,12 @@
   link: cybervaultsec.com
   job_title: Cyber Security Intern
   dates: November 2018 - February 2019
-  quote: >
   description: | # this will include new lines to allow paragraphs
     Cybervault , Pune,  provides VAPT services. VAPT audit helps identify vulnerabilities in the network. Patching ensures smooth working of IT Network.  
   tags: <mark>VAPT</mark>
         <mark>Cyber Security</mark>
         <mark>Ethical Hacking</mark>
         <mark>Penetration Testing</mark>
-
 
 - layout: left
   company: Cyberops Infosec LLP 
