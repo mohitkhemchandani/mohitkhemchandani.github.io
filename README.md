@@ -2,7 +2,7 @@
 
 Visit : https://mohitkhemchandani.github.io/
 
-Mohit's Online resime!
+Mohit's Online resume!
 
 
 
