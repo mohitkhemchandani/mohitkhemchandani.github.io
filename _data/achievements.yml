@@ -1,5 +1,5 @@
 # Project template
-- name: Core Ctf Player of India Top 10 CTF Team
+- name: Core CTF Player of India Top 10 CTF Team
   link: https://ctftime.org/team/116018
   link_name: Team Link
   description:
@@ -9,7 +9,7 @@
   link: https://helpx.adobe.com/security/acknowledgements.html
   link_name: Check the hall of fame
   description:
-    Got the hall of fame on Adobe 
+    Got the hall of fame on Adobe for finding the critical vulnerability in May 2020.
     
 - name: Industrial Control Systems
   link: https://drive.google.com/file/d/1yZriD0zk55ye9Q-G_uH166ELt_xb7P0-/view?usp=sharing
@@ -37,7 +37,13 @@
   link_name: See Credentials
   description:
     Fortinet's Network Security Expert Certification (Apr 2020 - Apr 2022)
-    
+
+- name: Bug Hunter title on TryHackMe
+  link: https://tryhackme.com/p/cryptonic007
+  link_name: Check My Profile
+  description:
+    Achieved Bug Hunter title on TryHackMe after submitting 3 critical bugs.
+
 - name: Top 15 Bug Hunter in NCIIPC
   link: https://nciipc.gov.in/documents/NCIIPC_Newsletter_Jan20.pdf
   link_name: See Credentials
