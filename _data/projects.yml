@@ -3,7 +3,7 @@
 - layout: left
   name: Mufasa Scanner 
   link: 
-  github: 
+  github: https://github.com/mohitkhemchandani/Mufasa_Scanner
   quote: >
     A Selenium-based tool developed in python to automate the task of Vulnerability Assessment with the help of Nmap and Nessus.
   tags: <mark>Selenium Driver</mark>
