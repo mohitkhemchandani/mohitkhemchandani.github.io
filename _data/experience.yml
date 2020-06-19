@@ -1,6 +1,16 @@
 # Experience template
 
 - layout: left
+  company: RoboMQ
+  link: https://www.robomq.io/
+  job_title: Cyber Security Intern
+  dates: January 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    RoboMQ is an API and data integration company behind some of the leading-edge technologies and platforms that enable enterprises to build business processes and automate their operations using best of breed cloud, SaaS, and on-premise applications that they already own. 
+  tags: <mark>Angular</mark>
+        <mark>Node JS</mark>
+
+- layout: left
   company: Cybervault Securities Solutions
   link: cybervaultsec.com
   job_title: Cyber Security Intern
