@@ -1,4 +1,42 @@
 # Project template
+- name: Hall of Fame from Adobe
+  link: https://helpx.adobe.com/security/acknowledgements.html
+  link_name: 
+  description:
+    Certified Mobilyze Operator (Apr 2020 - Apr 2023)
+    
+- name: Industrial Control Systems
+  link: https://drive.google.com/file/d/1yZriD0zk55ye9Q-G_uH166ELt_xb7P0-/view?usp=sharing
+  link_name: 
+  description:
+    Certificate of Training, Presented by the
+    National Cybersecurity & Communications Integration Center
+    Industrial Control Systems
+    U.S. Department of Homeland Security
+
+- name: Certified Mobilyze Operator
+  link: https://drive.google.com/file/d/116Z8G70lvNuK2e3qqgIGjMXZIrmyinCQ/view?usp=sharing
+  link_name: 
+  description:
+    Certified Mobilyze Operator (Apr 2020 - Apr 2023)
+
+- name: NSE-2 Network Security Associate
+  link: https://drive.google.com/file/d/13F8hJUICBWAg31Nk8Np7UPvJyt_PzjC8/view?usp=sharing
+  link_name: 
+  description:
+    Fortinet's Network Security Expert Certification (Apr 2020 - Apr 2022)
+
+- name: NSE-1 Network Security Associate
+  link: https://drive.google.com/file/d/14aNaym_HQtE5eaaxX22RWRxbg3p02Vhg/view?usp=sharing
+  link_name: 
+  description:
+    Fortinet's Network Security Expert Certification (Apr 2020 - Apr 2022)
+    
+- name: Top 15 Bug Hunter in NCIIPC
+  link: https://nciipc.gov.in/documents/NCIIPC_Newsletter_Jan20.pdf
+  link_name: 
+  description:
+    I was top 15 bug hunter in NCIIPC Newsletter (Jan 2020)
 
 - name: CompTia Pentest+ Infosec CTF
   link: tryhackme.com/room/Infosec
