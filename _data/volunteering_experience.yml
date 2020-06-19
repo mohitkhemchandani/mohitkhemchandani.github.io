@@ -1,4 +1,16 @@
 - layout: left
+  company: Volunteer at DEFCON Delhi
+  link: defcon9111.org
+  job_title: Volunteer
+  dates: June 2020 - Present
+  quote: >
+    DEF CON Delhi | DC9111 is a group of techies, developers, designers, hackers and security researchers who are trying to spread core knowledge in the domain of cybersecurity and hacking that ranges from web application, hardware, embedded systems to RFID.
+  description: |
+    Being part of the organizing team, my responsibilites include: 
+    - Working as a Social outreach and 
+    - Managin the attendees in Event.
+    
+- layout: left
   company: Josh Talks organised by YI Yuva Club
   link: 
   job_title: Volunteer
