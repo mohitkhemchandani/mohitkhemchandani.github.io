@@ -7,7 +7,7 @@ name: Mohit Khemchandani
 title: Web Pentester | CTF player | Bug Hunter | Cyber Security Analyst
 email: mohitkchandani@gmail.com
 resume: 
-website: https://mohitkhemchandani.github.io/
+website: mohitkhemchandani.tech
 
 # Social links
 twitter_username: mohitkchandani
@@ -32,9 +32,9 @@ about_content: | # this will include new lines to allow paragraphs
     - Linux
     - Web Application Penetration Testing
   
-  I am actively looking for cybersecurity and research internships for winter 2019. I am available remotely too.
+  I am actively looking for cybersecurity and research jobs. I am available remotely too.
 
-  _A pdf version of my resume is available <a href="" target="_blank" >here</a>._
+#_A pdf version of my resume is available <a href="" target="_blank" >here</a>._
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
