@@ -5,8 +5,11 @@
   link: https://www.robomq.io/
   job_title: Cyber Security Intern
   dates: January 2020 - Present
-  description: | # this will include new lines to allow paragraphs
+  quote: >
     RoboMQ is an API and data integration company behind some of the leading-edge technologies and platforms that enable enterprises to build business processes and automate their operations using best of breed cloud, SaaS, and on-premise applications that they already own. 
+  description: | # this will include new lines to allow paragraphs
+    - Created Web Interface to send the product updates to users.
+    - Worked on Nodejs and Angular to create the company products.
   tags: <mark>Angular</mark>
         <mark>Node JS</mark>
 
@@ -15,8 +18,12 @@
   link: cybervaultsec.com
   job_title: Cyber Security Intern
   dates: November 2018 - February 2019
+  quote: >
+    Cybervault is the best institute in Pune providing CEH, Ethical hacking and other information security certifications training in pune with high success rate and 100% Placements. 
   description: | # this will include new lines to allow paragraphs
-    Cybervault , Pune,  provides VAPT services. VAPT audit helps identify vulnerabilities in the network. Patching ensures smooth working of IT Network. Cybervault is the best institute in Pune providing CEH, Ethical hacking and other information security certifications training in pune with high success rate and 100% Placements. Cybervault is an authorised training centre for EC-Council Certifications. 
+    - Training for Certfied Ethical Hacker
+    - Completed CEHv10 successfully with 86.4%
+    - Learn about Ethical Hacking and VAPT
   tags: <mark>VAPT</mark>
         <mark>Cyber Security</mark>
         <mark>Ethical Hacking</mark>
@@ -29,5 +36,7 @@
   quote: >  
     Cyberops is India’s leading organization in the field of Information security
   description:
-    Trainings on Information Security and provide penetration testing for security audits, and Cyber Crime Investigation services for various sectors to meet their specific needs.
+    - Training of Information Security and penetration testing for security audits.
+    - Performed pentesting of more than 50+ websites.
+    - Learned about Cyber Laws of India
 
