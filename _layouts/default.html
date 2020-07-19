@@ -1,4 +1,10 @@
 <!DOCTYPE html>
+
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{%- include head.html -%}
+
+<body>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-71M6YLLTWM"></script>
 <script>
@@ -8,13 +14,7 @@
 
   gtag('config', 'G-71M6YLLTWM');
 </script>
-
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
-
-{%- include head.html -%}
-
-<body>
-
+  
   {%- include header.html -%}
 
   <main class="page-content" aria-label="Content">
